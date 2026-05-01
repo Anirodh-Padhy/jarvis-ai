@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Build files
+build/
+dist/
+*.spec
+
+# Logs
+logs/
+*.log
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+#pic
+.jpg
